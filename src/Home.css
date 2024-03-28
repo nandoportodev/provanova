@@ -1,0 +1,25 @@
+/* Home.css */
+
+/* Estilos para a logo */
+.logo-link {
+    display: inline-block;
+    background-image: url('https://logodownload.org/wp-content/uploads/2017/05/cartola-fc-1090-5.png');
+    background-size: contain;
+    width: 150px;
+    height: 50px;
+  }
+  
+  /* Estilos para a página Home */
+  .home-container {
+    text-align: center; /* Centraliza o conteúdo horizontalmente */
+    color: #000; /* Cor do texto */
+    background-color: #F5F5F5; /* Cor de fundo */
+  }
+  
+  .card {
+    background-color: #EFF; /* Cor do card */
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+  }
+  
